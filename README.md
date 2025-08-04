@@ -11,8 +11,8 @@ src<br/>
 |                └── ... (*testes das utils)<br/>
 |                 └── ... (*testes dos controllers) <br/> 
 ├── FRONTEND<br/>
-    └── SEC<br/>
-        ├── node_modules<br/>
-        ├── src<br/>
-        |   └── *arquivos da aplicação (...)<br/>
-        ├── ...<br/>
+└── SEC<br/>
+    ├── node_modules<br/>
+    ├── src<br/>
+    |   └── *arquivos da aplicação (...)<br/>
+    |   ├── ...<br/>
