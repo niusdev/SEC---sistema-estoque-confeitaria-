@@ -20,3 +20,7 @@ src<br/>
 
 ## Link do projeto:<br/>
 https://sec-front-chi.vercel.app/
+
+## Usuário senior para testes (possui todas as funcionalidades):
+- email: supervisorsenior@gmail.com
+- senha: 12345678
