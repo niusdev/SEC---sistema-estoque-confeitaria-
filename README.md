@@ -24,7 +24,6 @@ https://youtu.be/yEv5ZOrsjhI?si=2wXqmHIkd4zSY2pv
 ## Link do projeto:<br/>
 https://sec-front-chi.vercel.app/
 
-<br/>
-## Usuário senior para testes (possui todas as funcionalidades):
+<br/>## Usuário senior para testes (possui todas as funcionalidades): <br/>
 - email: supervisorsenior@gmail.com
 - senha: 12345678
